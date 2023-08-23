@@ -113,6 +113,9 @@
 
 <p>
   <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=tecnology73&" alt="tecnology73" />
+</p>
+
+<p>
   <!--<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=tecnology73&show_icons=true&locale=en" alt="tecnology73" />-->
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=tecnology73&show_icons=true&locale=en&layout=compact" alt="tecnology73" />
 </p>
