@@ -20,8 +20,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tecnology73" height="30" width="40" />
   </a>
   
-  <a href="https://discord.gg/su55rE2r" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="su55rE2r" height="30" width="40" />
+  <a href="https://discord.gg/DahcbuQ" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DahcbuQ" height="30" width="40" />
   </a>
 </p>
 
